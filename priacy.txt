@@ -1,0 +1,1 @@
+App may collect Android sid if you grant the permission. Otherwise we do not collect other information.
